@@ -107,6 +107,14 @@ export const portfolio = {
       label: "VISUALS THAT CLICK",
       icon: "Ps",
       brand: "photoshop"
+    },
+    {
+      number: "04",
+      name: "Adobe illustator",
+      detail: "Custom Animation / Visual Assets / Compositing",
+      label: "Animation That Click",
+      icon: "Ai",
+      brand: "adobe-illustrator"
     }
   ]
 };
