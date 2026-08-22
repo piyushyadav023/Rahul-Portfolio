@@ -76,9 +76,9 @@ export const portfolio = {
     },
     {
       number: "06",
-      title: "Captions Type Edit",
+      title: "Logo Animation",
       category: "Vertical edit",
-      youtubeUrl: "https://youtube.com/shorts/2iWiveC2TI8?si=BdT4j30ARjvW_p-s",
+      youtubeUrl: "https://www.youtube.com/shorts/nbf8DB-jDI4",
       image: "/assets/short-06.jpg",
       tone: "night"
     }
